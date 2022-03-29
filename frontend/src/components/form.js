@@ -23,16 +23,7 @@ import {
     const handleUserSecondName = (e) => {
       setUserSecondName(e.target.value);
     };
-    // // gender of user
-    // const [userGender, setUserGender] = useState("Male");
-    // const handleUserGender = (e) => {
-    //   setUserGender(e.target.value);
-    // };
-    // age of the user
-    // const [userAge, setUserAge] = useState("");
-    // const handleUserAge = (e) => {
-    //   setUserAge(e.target.value);
-    // };
+
     // user profession
     const [userProfession, setUserProfession] = useState("");
     const handleUserProfession = (e) => {
@@ -54,17 +45,7 @@ import {
         const handleUserLocation = (e) => {
           setUserLocation(e.target.value);
     };
-    // user house address
-    // const [userHouseAddress, setUserHouseAddress] = useState("");
-    // const handleUserHouseAddress = (e) => {
-    //   setUserHouseAddress(e.target.value);
-    // };
-    // user description
-    // const [userProfileDescription, setUserProfileDescription] = useState("");
-    // const handleUserProfileDescription = (e) => {
-    //   setUserProfileDescription(e.target.value);
-    // };
-    // user profile website
+   
     const [userFirstProfileWebsite, SetUserFirstProfileWebsite] =
       useState("GitHub");
     const handleFirstUserProfileWebsite = (e) => {
@@ -97,58 +78,7 @@ import {
     const handleUserPersonalWebsiteLink = (e) => {
       setUserPersonalWebsiteLink(e.target.value);
     };
-    // user high school degree name
-    // const [userHighSchoolDegreeName, setUserHighSchoolDegreeName] = useState("");
-    // const handleUserHighSchoolDegreeName = (e) => {
-    //   setUserHighSchoolDegreeName(e.target.value);
-    // };
-    // // user high school name
-    // const [userHighSchoolName, setUserHighSchoolName] = useState("");
-    // const handleUserHighSchoolName = (e) => {
-    //   setUserHighSchoolName(e.target.value);
-    // };
-    // // user high school degree starting date
-    // const [userHighSchoolStartingDate, setUserHighSchoolStartingDate] =
-    //   useState("");
-    // const handleUserHighSchoolDegreeStartingDate = (e) => {
-    //   setUserHighSchoolStartingDate(e.target.value);
-    //   console.log(e.target.value);
-    // };
-    // // user high school degree ending date
-    // const [userHighSchoolEndingDate, setUserHighSchoolEndingDate] = useState("");
-    // const handleUserHighSchoolDegreeEndingDate = (e) => {
-    //   setUserHighSchoolEndingDate(e.target.value);
-    // };
-    // // user high school experience
-    // const [userHighSchoolExperience, setUserHighSchoolExperience] = useState("");
-    // const handleUserHighSchoolExperience = (e) => {
-    //   setUserHighSchoolExperience(e.target.value);
-    // };
-    // // user college degree name
-    // const [userCollegeDegreeName, setUserCollegeDegreeName] = useState("");
-    // const handleUserCollegeDegreeName = (e) => {
-    //   setUserCollegeDegreeName(e.target.value);
-    // };
-    // // user college name
-    // const [userCollegeName, setUserCollegeName] = useState("");
-    // const handleUserCollegeName = (e) => {
-    //   setUserCollegeName(e.target.value);
-    // };
-    // // user college degree starting date
-    // const [userCollegeStartingDate, setUserCollegeStartingDate] = useState("");
-    // const handleUserCollegeStartingDate = (e) => {
-    //   setUserCollegeStartingDate(e.target.value);
-    // };
-    // // user college degree ending date
-    // const [userCollegeEndingDate, setUserCollegeEndingDate] = useState("");
-    // const handleUserCollegeDegreeEndingDate = (e) => {
-    //   setUserCollegeEndingDate(e.target.value);
-    // };
-    // // user college experience
-    // const [userCollegeExperience, setUserCollegeExperience] = useState("");
-    // const handleUserCollegeExperience = (e) => {
-    //   setUserCollegeExperience(e.target.value);
-    // };
+   
     // user bachelor degree name
     const [userBachelorDegreeName, setUserBachelorDegreeName] = useState("");
     const handleUserBachelorDegreeName = (e) => {
