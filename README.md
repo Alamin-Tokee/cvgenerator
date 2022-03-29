@@ -1,6 +1,6 @@
 # cvgenerator
 
-# Technology Uses 
+# Technology Used
 1. React.js
 2. Node.js
 3. Express.js
@@ -25,3 +25,6 @@
 ![image (11)](https://user-images.githubusercontent.com/61968457/160711635-25ad86bb-a5af-43a5-b42d-aa823281d3d8.png)
 
 ![image (12)](https://user-images.githubusercontent.com/61968457/160711672-9a34394a-1158-4e1e-8b0a-e68fb8ff7742.png)
+
+
+First of all create react app then download all dependencies for react and node. After that run the node and react server. 
